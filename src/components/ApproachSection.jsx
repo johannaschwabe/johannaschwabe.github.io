@@ -47,7 +47,7 @@ export default function ApproachSection() {
         </div>
         <div className="flex-1 flex flex-col items-start text-left w-full md:max-w-[550px] gap-8 justify-center md:pt-28">
           <h2 className="approach-heading">My Approach</h2>
-          <p className="approach-body" data-approach-animate="3">I'm a creative who has lived and worked in South Korea for the past 1.5 years. Working both in front of and behind the camera has shaped how I think end-to-end — from concept and planning to execution and performance. I'm driven by building structure around ideas, organizing creative processes and committing to projects from start to finish. After developing this mindset in Korea, I'm preparing to bring it back to Europe and grow within strategy-led creative teams.</p>
+          <p className="approach-body" data-approach-animate="3">I'm a creative who has lived and worked in South Korea for the past 2 years. Working both in front of and behind the camera has shaped how I think end-to-end — from concept and planning to execution and performance. I'm driven by building structure around ideas, organizing creative processes and committing to projects from start to finish. After developing this mindset in Korea, I'm preparing to bring it back to Europe and grow within strategy-led creative teams.</p>
           <h4 className="approach-intro" data-approach-animate="4">Creative work, <span style={{ color: '#9A5858' }}>built with intention.</span></h4>
         </div>
       </div>
